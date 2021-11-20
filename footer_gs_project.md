@@ -1,4 +1,4 @@
-<img alt="" width="170" src="https://raw.githubusercontent.com/glowspace/readmes/main/img/gs-grad-transparent.png" align="right">
+<img alt="" width="170" src="https://raw.githubusercontent.com/glowspace/readmes/main/img/glow_space-logo.png" align="right">
 
 ## Projekt Glow Space
 
