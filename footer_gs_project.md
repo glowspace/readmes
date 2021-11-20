@@ -1,6 +1,6 @@
 ## Glow Space
 
-<img alt="" width="622" src="img/gs-grad-transparent.png">
+<img alt="" width="622" src="https://raw.githubusercontent.com/glowspace/readmes/main/img/gs-grad-transparent.png">
 
 Tuto aplikaci a mnoho dalších vyvíjí dobrovolníci
 z digitální komunity [Glow Space](https://glowspace.cz). 
