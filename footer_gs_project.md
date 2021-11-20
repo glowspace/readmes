@@ -12,5 +12,5 @@ Staňte se naším sponzorem, abychom mohli dál tvořit weby a aplikace pro vě
 
 
 ### Připojte se k nám
-Pokud chcete být v obraze o tom, co se děje v rámci IT v křesťanském prostředí, připojte se do našeho Discord serveru [zde.](https://glowspace.cz)
+Pokud chcete být v obraze o tom, co se děje v rámci IT v křesťanském prostředí nebo se s námi pustit do díla, připojte se do našeho Discord serveru [zde.](https://glowspace.cz)
 
